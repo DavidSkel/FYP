@@ -1,4 +1,7 @@
-# quiz_app
+# UP2047589 FYP
+
+Dependancies
+Flask - pip install Flask
 
 A new Flutter project.
 
