@@ -71,7 +71,7 @@ class _TransitiveTrueFalseState extends State<TransitiveTrueFalse> {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Text(
-                    'The Relation R ${_convertToSet(questionData!['relation'])} on the Set {1, 2, 3, 4, 5, 6} is Transitive.',
+                    'The Relation R = ${_convertToSet(questionData!['relation'])} on the Set {1, 2, 3, 4, 5, 6} is Transitive.',
                     style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
                   ),
                   SizedBox(height: 16),

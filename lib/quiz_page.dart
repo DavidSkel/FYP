@@ -86,11 +86,11 @@ class _QuizPageState extends State<QuizPage> {
         title: Text('Quiz Page'),
       ),
       body: quizContent,
-      floatingActionButton: FloatingActionButton(
-        onPressed: nextQuestion,
-        tooltip: 'Next Question',
-        child: Icon(Icons.arrow_forward),
-      ),
+      //floatingActionButton: FloatingActionButton(
+        //onPressed: nextQuestion,
+        //tooltip: 'Next Question',
+        //child: Icon(Icons.arrow_forward),
+      //),
     );
   }
 }
