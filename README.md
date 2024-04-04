@@ -30,7 +30,7 @@ Install Flask using the Command Promt
 
 - Download project folder and extract the project from the zip folder.
 - Open the project folder into the chosen IDE.
-- When prompted run `pub get` to download required dependancies inside the project.
+- When prompted run `pub get` to download required dependancies inside the project. If not prompted then naviagte to the `pubspec.yaml` and get the packages/run `pub get` from there.
 - Set the device Flutter will load the project in to `Windows` as currently the code only functions on Windows devices. In Visual Studio Code, the Windows device option would look similar to <code>Windows <quote>windows - desktop</quote></code>
 - Navigate to the Python file named `app.py` and run it, this starts the Flask server which is required for the project to function. The terminal in the IDE should say when if the server is running. The `app.py` file can be located at the file path of `"FYP-main\lib\python_code\app.py"`
 - Navigate to the Dart file named `main.dart` and execute it. This will start the Flutter part of the code and display the application visually. The `main.dart` file can be located at the file path of `"FYP-main\lib\main.dart"`
