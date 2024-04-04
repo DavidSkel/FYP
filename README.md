@@ -28,7 +28,7 @@ Install Flask using the Command Promt
 
 ## Usage
 
-- Download project folder and extract the project from the zip folder.
+- Download project zip folder and extract the project from the zip folder.
 - Open the project folder into the chosen IDE.
 - When prompted run `pub get` to download required dependancies inside the project. If not prompted then naviagte to the `pubspec.yaml` and get the packages/run `pub get` from there.
 - Set the device Flutter will load the project in to `Windows` as currently the code only functions on Windows devices. In Visual Studio Code, the Windows device option would look similar to <code>Windows <quote>windows - desktop</quote></code>
