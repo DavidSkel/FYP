@@ -1,19 +1,34 @@
-# UP2047589 FYP
+# Maths App For Practising Relations In Sets
 
-Dependancies
-Flask - pip install Flask
+By UP2047589
 
-A new Flutter project.
+## Introduction
 
-## Getting Started
+This project was developed for my Final Year Project as part of the Computer Science course at the University of Portsmouth.
+This code creates questions for Reflexive, Transitive and Symmetric relations in sets and allows the user to choose an answer.
+The code then will respond to the users answer appropriatly whether a corect or incorrect solution was chosen before displaying the correct solution.
 
-This project is a starting point for a Flutter application.
+## Requirements
 
-A few resources to get you started if this is your first Flutter project:
+* Python 3.12.0
+* Flutter 3.16.9
+* Dart 3.2.6
+* Windows Device capable of running Flutter
+* IDE capable of running Flutter (e.g. Visual Studio Code)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Dependencies
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This program depends on Python Flask
+
+Install Flask using the Command Promt
+
+**Installation Using Pip:**
+
+`pip install Flask`
+
+## Usage
+
+- Download project folder and extract the project into the same folder.
+
+
+
